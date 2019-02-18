@@ -1,0 +1,26 @@
+{
+  "id": "9685ff80-6434-45a3-bad1-44c1f8efcade",
+  "name": "NUN",
+  "publisher": "Singhammer IT Consulting AG",
+  "brief": "",
+  "description": "Diese Erweiterung enthält individuelle Anpassungen",
+  "version": "1.0.190101.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 55000,
+    "to": 99999
+  },
+  "features": [ "TranslationFile" ],
+  "target": "Internal",
+  "showMyCode": true,
+  "runtime": "2.2"
+}
