@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "local Docker",
+        //     "server": "https://site13-1",
+        //     "serverInstance": "nav",
+        //     "authentication": "UserPassword",
+        //     "startupObjectId": 5159132,
+        //     "startupObjectType": "Page",
+        // },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "INSIDE",
+            "server": "http://localhost",
+            "port": 7249,
+            "serverInstance": "SITE2019BC",
+            "authentication": "Windows",
+            "startupObjectId": 5159132,
+            "startupObjectType": "Page",
+            "schemaUpdateMode": "Synchronize"
+        }
+    ]
+}
